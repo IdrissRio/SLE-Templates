@@ -50,6 +50,6 @@ For all experimental claims made in the paper, please provide the following:
 2. **Reproduction Steps:** Explain how this claim can be reproduced using the artifact.
    - Example: *“The results presented in Figure 3 can be reproduced by executing `run_experiment.sh` with the configuration file `config_figure3.json`.”*
 3. **Expected Output:** Clearly describe what the expected output should be.
-4. **Estimated Runtime:** Provide an estimate of how long the full evaluation will take.
+4. **Estimated Runtime (Optional):** Provide an estimate of how long the full evaluation will take.
 5. **Potential Issues:** List any known challenges in reproducing the results and how to mitigate them.
 
